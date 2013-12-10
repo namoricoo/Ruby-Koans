@@ -7,3 +7,4 @@
 * Add about_class_methods.rb
 * Neo.rb
 * about_nil.rb
+* about hashes.rb
